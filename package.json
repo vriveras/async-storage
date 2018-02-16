@@ -8,8 +8,10 @@
     "lib/index.ios.js",
     "lib/index.js",
     "lib/index.mobile.js",
-    "lib/types.js"
+    "lib/types.js",
+    "index.d.ts"
   ],
+  "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/callstack-io/react-native-cross-platform-storage.git"
